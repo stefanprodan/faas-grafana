@@ -1,0 +1,2 @@
+# faas-grafana
+OpenFaaS Grafana
