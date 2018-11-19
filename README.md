@@ -28,7 +28,7 @@ $GRAFANA_PORT=$(kubectl -n openfaas get svc grafana -o jsonpath="{.spec.ports[0]
 ```
 
 URL: `http://<KUBE_IP>:<GRAFANA_PORT>/dashboard/db/openfaas`
-Credentials: `admin/dmin`
+Credentials: `admin/admin`
 
 ### Swarm
 
